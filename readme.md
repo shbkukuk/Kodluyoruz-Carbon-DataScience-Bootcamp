@@ -39,4 +39,7 @@
 - Tensorflow, Pytorch, Tensorflow Object Detection (SSD/Resnet)
 
 ## **CERTIFICATE**
-[]()
+<p align="center">
+  <img src="https://github.com/shbkukuk/Kodluyoruz-Carbon-DataScience-Bootcamp/blob/main/certificate/46024878477666.png" />
+</p>
+
