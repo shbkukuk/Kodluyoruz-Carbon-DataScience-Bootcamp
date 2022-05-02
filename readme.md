@@ -40,7 +40,7 @@
 - Streamlit for API
 
 *Demo Video*
-
+![demo](https://github.com/shbkukuk/Kodluyoruz-Carbon-DataScience-Bootcamp/blob/main/certificate/video-demo.mp4)
 
 ## **CERTIFICATE**
 <p align="center">
