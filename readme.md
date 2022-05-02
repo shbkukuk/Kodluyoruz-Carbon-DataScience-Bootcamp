@@ -37,6 +37,10 @@
 - Image Classification using CNN/ConvNet for Turkish Sıgn Language 
 - Kaggle Dataset contains 10K photos 
 - Tensorflow, Pytorch, Tensorflow Object Detection (SSD/Resnet)
+- Streamlit for API
+
+*Demo Video*
+
 
 ## **CERTIFICATE**
 <p align="center">
